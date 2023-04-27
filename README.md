@@ -52,21 +52,7 @@ It is important to identify and treat anemia promptly, as it can lead to complic
 9. Hyperparameter tuning with GridsearchCV
 10. 5 fold cross validation
 
-
+---
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
-
-
-
-
-
-
-## Objective: 
-   - To build up the machine leanring model to classifiy anemic condition
-   - To see if gender has an impact on hemoglobin levels   
-   - To compare the six different Ml algorithms for best detection
-   
-   
-   
-Requirem
