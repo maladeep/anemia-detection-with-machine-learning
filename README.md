@@ -49,8 +49,8 @@ It is important to identify and treat anemia promptly, as it can lead to complic
    * Recall
    * F1 Score
    * Kappa Stat
-9. Hyperparameter Tuning with GridsearchCV
-10. 5 fold Cross validation
+9. Hyperparameter tuning with GridsearchCV
+10. 5 fold cross validation
 
 
 ## Contributing
