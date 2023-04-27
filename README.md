@@ -18,6 +18,41 @@ It is important to identify and treat anemia promptly, as it can lead to complic
 
 ---
 
+## What's Inside
+1. Exploratory Data Analysis
+2. Statisticl test with t-test, Odd ratio, and Chi-square test for association
+3. Feature Selection
+   * Correlation
+   * SelectKBest 
+   * Extra Tree Classifier
+4. Scaling feature
+   * log 
+   * Standardization
+   * Normalization
+5. Class imbalance handling
+   *  Random Undersampling
+   *  Random Oversampling
+   *  SMOTE
+   *  ADASYN
+6. Data Leakage handling
+7. Algorithms employed
+   * Decision Tree (DT)
+   * Random Forest (RF)
+   * Logistic Regression (LG)
+   * K-Nearest Neighbors (KNN)
+   * Support Vector Machine (SVM)
+   * Gaussian Naive Bayes (NB)
+8. Performacne measured with
+   * Accuracy
+   * Area Under the Curver
+   * Precision
+   * Recall
+   * F1 Score
+   * Kappa Stat
+9. Hyperparameter Tuning with GridsearchCV
+10. 5 fold Cross validation
+
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
