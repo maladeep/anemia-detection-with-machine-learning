@@ -1,4 +1,4 @@
-# Anemia detection with machine learning
+# Anemia Detection with Machine Learning
 ---
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/clang) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/maladeep/anemia-detection-with-machine-learning)  ![GitHub](https://img.shields.io/github/license/maladeep/anemia-detection-with-machine-learning)
 ----
@@ -44,7 +44,7 @@ It is important to identify and treat anemia promptly, as it can lead to complic
    * K-Nearest Neighbors (KNN)
    * Support Vector Machine (SVM)
    * Gaussian Naive Bayes (NB)
-8. Performacne measured with
+8. Performance measured
    * Accuracy
    * Area Under the Curver
    * Precision
