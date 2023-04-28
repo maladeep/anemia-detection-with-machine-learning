@@ -46,7 +46,7 @@ It is important to identify and treat anemia promptly, as it can lead to complic
    * Gaussian Naive Bayes (NB)
 8. Performance measured
    * Accuracy
-   * Area Under the Curver
+   * Area Under the Curve
    * Precision
    * Recall
    * F1 Score
