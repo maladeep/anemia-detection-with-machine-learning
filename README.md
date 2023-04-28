@@ -22,7 +22,7 @@ It is important to identify and treat anemia promptly, as it can lead to complic
 
 ## What's Inside
 1. Exploratory Data Analysis
-2. Statisticl test with t-test, Odd ratio, and Chi-square test for association
+2. Statistical test with t-test, Odd ratio, and Chi-square test for association
 3. Feature Selection
    * Correlation
    * SelectKBest 
