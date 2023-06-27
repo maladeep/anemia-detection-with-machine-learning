@@ -55,6 +55,9 @@ It is important to identify and treat anemia promptly, as it can lead to complic
 10. 5 fold cross validation
 
 ---
+## Usages
+[Run Live App](https://anemia-detection-with-machine-learning-b7llxt4qca.streamlit.app)
+
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+Contributions are what makes the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
