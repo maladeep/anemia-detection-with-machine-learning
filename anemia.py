@@ -1,6 +1,8 @@
 import streamlit as st
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
+from sklearn import metrics
+from sklearn.metrics import precision_score, recall_score, f1_score, roc_auc_score, accuracy_score, classification_report # for computing various performance metrics for classification models
 import pickle
 
 # Load the trained model
