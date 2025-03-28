@@ -7,8 +7,8 @@ from sklearn.metrics import precision_score, recall_score, f1_score, roc_auc_sco
 import pickle
 
 # Load the trained model
-model_path = 'random_forest_model.pkl'  # Path to your trained model
-with open('model.pkl', 'rb') as model_file:
+# model_path = 'random_forest_model.pkl'  # Path to your trained model
+with open('random_forest_model.pkl', 'rb') as model_file:
     model = pickle.load(model_file)
 # model = pickle.load(open(model_path, 'rb')) # got error of data leak so updated with with open method
 
