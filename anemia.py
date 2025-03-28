@@ -8,7 +8,9 @@ import pickle
 
 # Load the trained model
 model_path = 'random_forest_model.pkl'  # Path to your trained model
-model = pickle.load(open(model_path, 'rb'))
+with open('model.pkl', 'rb') as model_file:
+    model = pickle.load(model_file)
+# model = pickle.load(open(model_path, 'rb')) # got error of data leak so updated with with open method
 
 # Define the function to preprocess input data
 def preprocess_data(hemoglobin, gender, mcv):
